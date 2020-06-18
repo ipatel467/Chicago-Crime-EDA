@@ -8,4 +8,4 @@ My first step was data cleaning. I used pandas to clean the data by removing nul
 # Summary 
 I decided to break the dataset down by categorized the crimes where an arrest was made and where an arrest was not made. There is a very heavy imbalance in the number of arrests and the number of not arrest. Over 75% of crimes did not result in an arrest which can be alarming. 
 
-I wanted to see how differnt crimes can affect whether an arrest was made or not. I also want to see how often is crime happening. Also where is most of the crimal activity happening. 
+I wanted to see how differnt crimes can affect whether an arrest was made or not. I also want to see how often is crime happening. Also where is most of the crimal activity happening.  I also saw that people are mostly getting arrested for narcotics or domestic distuputes.
